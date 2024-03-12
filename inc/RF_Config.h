@@ -35,8 +35,8 @@
 #define EFM8BB1_SUPPORT_BY302_PROTOCOL			0		// Byron BY302 Doorbell, Issue #102
 #define EFM8BB1_SUPPORT_DT_5514_PROTOCOL		0		// 5514 SILENT Dual Tech, Issue #104
 #define EFM8BB1_SUPPORT_H13726_PROTOCOL			0		// Auriol H13726 Weather Station, Issue #106
-#define EFM8BB1_SUPPORT_HUNTER_PROTOCOL			1		// Hunter Fan Remote
-#define EFM8BB1_SUPPORT_HUNTER_B_PROTOCOL			1		// Hunter_B Fan Remote
-#define EFM8BB1_SUPPORT_HUNTER_C_PROTOCOL			1		// Hunter_C Fan Remote
-#define EFM8BB1_SUPPORT_HUNTER_D_PROTOCOL			1		// Hunter_D Fan Remote
+#define EFM8BB1_SUPPORT_HUNTER_PROTOCOL			0		// Hunter Fan Remote
+#define EFM8BB1_SUPPORT_HUNTER_B_PROTOCOL			0		// Hunter_B Fan Remote
+#define EFM8BB1_SUPPORT_HUNTER_C_PROTOCOL			0		// Hunter_C Fan Remote
+#define EFM8BB1_SUPPORT_HUNTER_D_PROTOCOL			0		// Hunter_D Fan Remote
 #define EFM8BB1_SUPPORT_HUNTER_E_PROTOCOL			1		// Hunter_E Fan Remote
